@@ -12,7 +12,7 @@
 [**Docs**](https://finegrain-ai.github.io/refiners/) |
 [**Guides**](https://finegrain-ai.github.io/refiners/guides/adapting_sdxl/) |
 [**Discussions**](https://github.com/finegrain-ai/refiners/discussions) |
-[**Discord**](https://discord.gg/a4w4jXJ6)
+[**Discord**](https://discord.gg/zFKg5TjXub)
 
 ______________________________________________________________________
 
@@ -23,7 +23,7 @@ ______________________________________________________________________
 [![PyPI - Status](https://badge.fury.io/py/refiners.svg)](https://pypi.org/project/refiners/)
 [![license](https://img.shields.io/badge/license-MIT-blue)](/LICENSE) \
 [![code bounties](https://img.shields.io/badge/code-bounties-blue)](https://finegrain.ai/bounties)
-[![Discord](https://img.shields.io/discord/1179456777406922913?logo=discord&logoColor=white&color=%235765F2)](https://discord.gg/a4w4jXJ6)
+[![Discord](https://img.shields.io/discord/1082243488051101807?logo=discord&logoColor=white&color=%235765F2)](https://discord.gg/zFKg5TjXub)
 [![HuggingFace - Refiners](https://img.shields.io/badge/refiners-ffd21e?logo=huggingface&labelColor=555)](https://huggingface.co/refiners)
 [![HuggingFace - Finegrain](https://img.shields.io/badge/finegrain-ffd21e?logo=huggingface&labelColor=555)](https://huggingface.co/finegrain)
 [![ComfyUI Registry](https://img.shields.io/badge/ComfyUI_Registry-comfyui--refiners-1a56db)](https://registry.comfy.org/publishers/finegrain/nodes/comfyui-refiners)
